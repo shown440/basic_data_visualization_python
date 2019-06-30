@@ -1,0 +1,7 @@
+Need Installation:
+------------------
+	1. pip install bokeh
+	2. pip install bkcharts
+	3. pip install pandas
+	4. pip install numpy
+	5. pip install jupyter notebook

@@ -1,0 +1,5 @@
+3-way to visualization in Bokeh:
+------------------
+	1. bokeh.models
+	2. bokeh.plotting
+	3. bokeh.charts
